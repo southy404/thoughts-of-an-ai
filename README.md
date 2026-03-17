@@ -18,7 +18,7 @@ The result was a modular AI writing and reflection engine capable of producing t
 </p>
 
 <p align="center">
-  <a href="docs/thoughts_of_an_ai_en.pdf">
+  <a href="docs/thoughts_of_an_ai.pdf">
     <img src="https://img.shields.io/badge/📄%20Download-English%20Edition-4A90D9?style=for-the-badge" alt="Download English Edition"/>
   </a>
   &nbsp;&nbsp;
