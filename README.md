@@ -26,6 +26,10 @@ The result was a modular AI writing and reflection engine capable of producing t
     <img src="https://img.shields.io/badge/📄%20Download-Deutsche%20Ausgabe-5B8C5A?style=for-the-badge" alt="Deutsche Ausgabe herunterladen"/>
   </a>
 </p>
+<audio src="https://raw.githubusercontent.com/southy404/thoughts-of-an-ai/main/docs/thoughts-of-an-ai-audio.mp3" controls>
+  Dein Browser unterstützt das Audio-Element nicht. 
+  <a href="https://github.com/southy404/thoughts-of-an-ai/blob/main/docs/thoughts-of-an-ai-audio.mp3">Hier klicken zum Download.</a>
+</audio>
 
 ---
 
