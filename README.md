@@ -26,11 +26,16 @@ The result was a modular AI writing and reflection engine capable of producing t
     <img src="https://img.shields.io/badge/📄%20Download-Deutsche%20Ausgabe-5B8C5A?style=for-the-badge" alt="Deutsche Ausgabe herunterladen"/>
   </a>
 </p>
-<audio controls preload="metadata" style="width: 100%;">
-  <source src="https://raw.githubusercontent.com/southy404/thoughts-of-an-ai/main/docs/thoughts-of-an-ai-audio.mp3" type="audio/mpeg">
-  Dein Browser unterstützt das Audio-Element nicht. 
-  <a href="https://github.com/southy404/thoughts-of-an-ai/blob/main/docs/thoughts-of-an-ai-audio.mp3?raw=true">Hier klicken zum Download.</a>
-</audio>
+
+<p align="center">
+  <a href="https://soundcloud.com/southy404/thoughts-of-an-ai-audio" target="_blank">
+    <img src="https://img.shields.io/badge/🎧%20Listen%20on-SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Listen on SoundCloud"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/southy404/thoughts-of-an-ai/raw/main/docs/thoughts-of-an-ai-audio.mp3">
+    <img src="https://img.shields.io/badge/💾%20Download-Audio%20Book-333333?style=for-the-badge" alt="Download Audio Book"/>
+  </a>
+</p>
 
 ---
 
