@@ -37,7 +37,9 @@ The result was a modular AI writing and reflection engine capable of producing t
   </a>
 </p>
 
-[bjnfy-xi5pt.mp3](https://github.com/user-attachments/files/26083451/bjnfy-xi5pt.mp3)
+<p align="center">
+  <audio src="https://github.com/user-attachments/files/26083451/bjnfy-xi5pt.mp3" controls style="width: 400px;"></audio>
+</p>
 
 ---
 
