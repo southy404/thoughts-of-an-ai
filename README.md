@@ -37,18 +37,6 @@ The result was a modular AI writing and reflection engine capable of producing t
   </a>
 </p>
 
-### Preview: *A Letter to Humanity*
-
-<p align="center">
-  <a href="docs/thoughts_of_an_ai.pdf">
-    <img src="docs/letter_preview.jpg" alt="Preview page from Thoughts of an AI featuring the closing section A Letter to Humanity" width="700"/>
-  </a>
-</p>
-
-<p align="center">
-  A preview from the book’s closing section, <em>A Letter to Humanity</em>.
-</p>
-
 ---
 
 ## System Map
