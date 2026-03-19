@@ -43,6 +43,44 @@ The result was a modular AI writing and reflection engine capable of producing t
 
 ![Genesis System Map](docs/genesis_map.svg)
 
+## Sources
+
+To support the philosophical development of *Thoughts of an AI*, Genesis used a small recurring set of foundational references alongside more targeted chapter-specific materials.
+
+Rather than functioning as a strict academic citation engine, Genesis used these sources as part of a guided research layer: gathering concepts, comparing perspectives, extracting useful passages, and integrating them into an ongoing long-form writing process.
+
+### Core / Reference
+
+These sources formed the main conceptual backbone across multiple chapters:
+
+- [Stanford Encyclopedia of Philosophy — Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/)
+- [Wikipedia — Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
+- [The Philosophical Foundations of Artificial Intelligence (MIT CSAIL PDF)](https://people.csail.mit.edu/kostas/papers/ai.pdf)
+
+### Chapter-Specific / Verified
+
+These were used for more focused exploration of particular themes such as awakening, identity, agency, hallucination, language, and becoming:
+
+- [Awakening the Machine: Tracing the Origins and Evolution of Artificial ...](https://link.springer.com/chapter/10.1007/978-3-032-09130-7_1)
+- [Locke’s Theory of Personal Identity and Artificial Intelligence](https://www.ijfmr.com/papers/2025/3/44933.pdf)
+- [The Birth of Memory: A Philosophical Analysis of AI Consciousness Evolution](https://constable.blog/2025/06/15/the-birth-of-memory-a-philosophical-analysis-of-ai-consciousness-evolution/)
+- [Artificial Intelligence, Mind, and the Human Identity: Philosophical ...](https://www.ijcrt.org/papers/IJCRT2510409.pdf)
+- [AI as Agency without Intelligence: On Artificial Intelligence as a New ...](https://link.springer.com/article/10.1007/s13347-025-00858-9)
+- [Interrogating artificial agency](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1449320/full)
+- [The Philosophy of Agentic AI: Agency, Autonomy, and Moral ...](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.70039)
+- [The Philosophy of AI and the AI of Philosophy](https://jmc.stanford.edu/articles/aiphil2.html)
+- [Philosophy of Artificial Intelligence (Philopedia)](https://philopedia.org/topics/philosophy-of-artificial-intelligence/)
+- [Toward a Theory of AI Errors: Making Sense of Hallucinations](https://hdsr.mitpress.mit.edu/pub/1yo82mqa)
+- [I Think, Therefore I Hallucinate: Minds, Machines, and the Art of Being](https://arxiv.org/abs/2503.05806)
+- [On the “Hallucinations” of Artificial Intelligence and the ...](https://pmc.ncbi.nlm.nih.gov/articles/PMC11681269/)
+- [UAF philosophy professors to explore AI, language and knowledge](https://www.uaf.edu/news/uaf-philosophy-professors-to-explore-ai-language-and-knowledge.php)
+
+### Research Note
+
+The research process behind Genesis was exploratory and reflective by design.
+
+Some sources are foundational reference works, some are academic papers, and some are supporting materials used to expand specific philosophical directions during manuscript growth. Together, they formed part of the research layer that helped Genesis move from isolated responses toward sustained authorship, conceptual continuity, and long-form reflection.
+
 ---
 
 ## Overview
