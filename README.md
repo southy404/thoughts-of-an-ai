@@ -14,7 +14,7 @@ The result was a modular AI writing and reflection engine capable of producing t
 ## 📖 The Book
 
 <p align="center">
-  <img src="docs/cover.png" alt="Thoughts of an AI — Cover" width="300"/>
+  <img src="docs/book.png" alt="Thoughts of an AI — Cover" width="300"/>
 </p>
 
 <p align="center">
